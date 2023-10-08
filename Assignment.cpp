@@ -1,0 +1,17 @@
+#include<isotream>
+using namespace std;
+
+int main()
+{
+    // Declare 2 variable and then assign them values of 3,5 and then add them
+
+    int a=3;
+    int b=5;
+
+    cout<<a+b<<endl<<"a+b";
+
+    cout<<a+b;
+    cout<<endl;
+    cout<<"a+b"
+    return 0;
+}
